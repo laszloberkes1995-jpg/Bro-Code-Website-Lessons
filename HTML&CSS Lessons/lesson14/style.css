@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+/*To apply any css to ID*/
+.odd{
+    color: red;
+}
+.even{
+    color: blue;
+}
+
+
+
+
+/*To apply any css to ID
+#p1{
+    color: red;
+}
+#p2{
+    color: orange;
+}
+#p3{
+    color: yellow;
+}
+#p4{
+    color: green;
+}
+*/
+

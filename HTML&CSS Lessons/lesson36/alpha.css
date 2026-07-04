@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+img{
+    transform: translateX(100%) rotateZ(180deg) scaleX(2);
+}
+/* .box{
+     width: 250px;
+    height: 250px;
+    border: 5px solid;
+    font-size: 13em;
+    text-align: center;
+    transform: translateX(100px) rotateZ(45deg) scale(0.5);
+}
+#box1{
+    background-color: hsl(120, 100%, 70%);
+    transform: translateX(100%); move to the right with negative number move to the left
+    transform: translateY(50px); move to down with negative number move to up;
+    transform: translate(50px, 50px); short for x,y
+    transform: rotateX(180deg);
+    transform: rotateY(180deg);
+    transform: rotateZ(180deg);
+    transform: scaleX(0.5);
+    transform: scaleY(0.5);
+    transform: scale(1, 1); default
+    transform: scale(2, 2);
+    transform: skewX(45deg);
+    transform: skewY(45deg);
+    transform: translateX(100%) rotateZ(90deg) scale(0.5);
+}
+#box2{
+        background-color: hsl(0, 100%, 70%);
+}
+#box3{
+        background-color: hsl(217, 100%, 70%);
+} */
