@@ -3,7 +3,7 @@
 //          from that class (class owns anything static, not the objects)
 
 
-//EXAMPLE !
+//EXAMPLE 1
 // class MathUtil{
 //     static PI = 3.14159;
 
@@ -24,6 +24,8 @@
 // console.log(MathUtil.getDiameter(10));
 // console.log(MathUtil.getCircumference(10));
 // console.log(MathUtil.getArea(10));
+
+//Example 2
 
 class User{
     static userCount = 0;
